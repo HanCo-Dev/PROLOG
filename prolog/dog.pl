@@ -1,0 +1,9 @@
+facts:
+male(ram).
+female(sita).
+male(hari).
+male(gopal).
+female(rita).
+likes(ram,ice-cream).
+likes(ram,sita).
+likes(sita,ice-cream).
